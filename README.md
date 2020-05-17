@@ -1,2 +1,2 @@
 # primeira-versao-do-site-imersao-css
-Minha primeira versão do site
+A primeira versão do meu portfolio foi criado no evento imersao-css feito pela Alura
