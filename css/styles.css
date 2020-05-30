@@ -123,10 +123,13 @@ a:hover {
   }
 }
 
-.portfolio {
-  background-color: rgb(20, 24, 53);
+.principal {
   display: flex;
   flex-direction: column;
+}
+
+.portfolio {
+  background-color: rgb(20, 24, 53);
 }
 
 .figure-portfolio:hover {
@@ -159,9 +162,23 @@ a:hover {
 
 .sobre {
   background-color: rgb(20, 24, 53);
+  border: 2px solid #d7695d;
 }
 
 .sobre p {
-  text-align: justify;
-  
+  color: whitesmoke;
+}
+
+.txt {
+  padding: 5em;
+}
+
+.conhecimentos {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.conhecimentos img {
+  width: 30px;
 }
