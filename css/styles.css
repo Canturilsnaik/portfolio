@@ -84,11 +84,9 @@ a:hover {
 .sobre-subtitle {
   display: block;
   text-align: center;
-  padding: 3em;
+  padding-top: 3em;
   color: whitesmoke;
 }
-
-
 
 .titulo {
   display: flex;
@@ -162,7 +160,6 @@ a:hover {
 
 .sobre {
   background-color: rgb(20, 24, 53);
-  border: 2px solid #d7695d;
 }
 
 .sobre p {
@@ -176,9 +173,22 @@ a:hover {
 .conhecimentos {
   display: flex;
   flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.conhec-title {
+  display: flex;
+  justify-content: center;
   margin-top: 10px;
 }
 
 .conhecimentos img {
-  width: 30px;
+  width: 50px;
+  padding-left: 10px;
+}
+
+.conhec-img:hover {
+  transform: translateY(5px);
 }
