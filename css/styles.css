@@ -101,6 +101,8 @@ a:hover {
 
 .social {
   background-color: #141835;
+  border-radius: 8px;
+  margin-left: 5px;
   display: flex;
   flex-direction: column;
   width: 30px; 

@@ -1,0 +1,16 @@
+.modal { 
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 15vh;
+  
+}
+
+.modal.hide {
+  display: none;
+}
+
+.whatsapp img, .email img{
+  width: 30px;
+  height: 30px;
+}
