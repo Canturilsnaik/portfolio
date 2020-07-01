@@ -194,3 +194,18 @@ a:hover {
 .conhec-img:hover {
   transform: translateY(5px);
 }
+
+button {
+  background: transparent;
+  border: 0;
+}
+
+.portfolio-menu, .sobre-menu{
+  cursor: pointer;
+}
+
+.footer {
+  margin-left: 40vw;
+  position: absolute;
+  bottom: 0;
+}

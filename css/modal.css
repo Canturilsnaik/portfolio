@@ -3,10 +3,11 @@
   justify-content: space-evenly;
   align-items: center;
   height: 15vh;
-  
+  position: relative;
 }
 
 .modal.hide {
+  position: relative;
   display: none;
 }
 
@@ -14,3 +15,4 @@
   width: 30px;
   height: 30px;
 }
+

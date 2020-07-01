@@ -3,10 +3,10 @@ const modal = document.querySelector(".modal");
 const close = document.querySelector(".modal a + a + a");
 
 buttonContact.addEventListener("click", () => {
-  modal.classList.remove("hide")
-  event.preventDefault()
-})
+  modal.classList.remove("hide");
+  event.preventDefault();
+});
 
 close.addEventListener("click", () => {
-  modal.classList.add("hide")
-})
+  modal.classList.add("hide");
+});
