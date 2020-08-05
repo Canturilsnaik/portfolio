@@ -11,6 +11,6 @@ Modificações
 
 
 
-Site: https://canturilsnaik.github.io/primeira-versao-do-site-imersao-css/
+Site: https://canturildev.netlify.app/
 
 
